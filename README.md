@@ -11,6 +11,9 @@
 - [x] Check the filtered and trimmed reads w/ FastQC
 - [ ] Literature review (topics: Pholcus, spider cytogenetics, telomeres... more topics will appear during reading;); also, what is the genome size in closely related spiders?)
 - [ ] Read pre-processing for REx2
+- [ ] download data from more species
+- [ ] read conversion, quality control, trimming+filtering, quality control
+- [ ] comparative analysis RepeatExplorer (all species)
 
 
 Notes from our last meeting (02/09/2021):
